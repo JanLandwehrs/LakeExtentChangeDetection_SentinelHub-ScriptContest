@@ -6,7 +6,7 @@ The script uses the water body detection method implemented by Mohor Gartner (ht
 
 As an example, the pictures below show the Poyang Lake in August 1988 and 2022 as well as the lake extent changes detected by the presented script. The Poyang Lake is China’s largest freshwater lake and experiences significant lake level variations between the dry and the wet monsoon seasons. However, it experienced an extreme shrinkage in 2022 associated with a severe drought and heat wave in Southern China. Red and dark blue colors indicate retraction or expansion of the detected water bodies from the older to the more recent date, respectively. The automatically detected water body in the latter image comprises the light and dark blue areas.
 
-![image](/1988-08-13-00 00_1988-08-13-23 59_Landsat_4-5_TM_L2_True_color.png)
+![image](1988-08-13-00 00_1988-08-13-23 59_Landsat_4-5_TM_L2_True_color.png)
 
 [EO Browser URL](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=29.14511&lng=116.18321&themeId=DEFAULT-THEME&visualizationUrl=https%3A%2F%2Fservices.sentinel-hub.com%2Fogc%2Fwms%2F0cd456a8-dfef-400d-a340-b7448c4d7f03&datasetId=AWS_LTML2&fromTime=1988-08-13T00%3A00%3A00.000Z&toTime=1988-08-13T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22)
 
