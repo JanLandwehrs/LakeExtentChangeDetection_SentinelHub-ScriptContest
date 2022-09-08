@@ -12,7 +12,7 @@ Landsat 4-5-TM Level-2 True Color Image of Poyang Lake on 1988-08-13 ([EO Browse
 Landsat 8-9 Level-2 True Color Image of Poyang Lake on 2022-08-19 ([EO Browser URL](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=29.18154&lng=116.14197&themeId=DEFAULT-THEME&visualizationUrl=https%3A%2F%2Fservices.sentinel-hub.com%2Fogc%2Fwms%2Ffa073661-b70d-4b16-a6a9-e866825f05fd&datasetId=AWS_LOTL2&fromTime=2022-08-19T00%3A00%3A00.000Z&toTime=2022-08-19T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22))
 ![image](https://github.com/JanLandwehrs/LakeExtentChangeDetection_SentinelHub-ScriptContest/blob/main/2022-08-19-00%2000_2022-08-19-23%2059_Landsat_8-9_L2_True_color.png)
 
-Changes in the water body extent detected by this script:
+Changes in the water body extent between both scenes detected by this script. (Red / Dark Blue: detected water body receded / expanded. Light Blue: water detected in both images.)
 ![image](https://github.com/JanLandwehrs/LakeExtentChangeDetection_SentinelHub-ScriptContest/blob/main/2022-08-19-00%2000_2022-08-19-23%2059_Landsat_8-9_L2_Custom_script.png)
 
 Notes on how to use this script in the [SentinelHub EO Browser](https://apps.sentinel-hub.com/eo-browser):
